@@ -1,4 +1,4 @@
-📌 Soma Invertida
+🔄 Soma Invertida
 
 O Soma Invertida é um site simples e responsivo feito em HTML, CSS e JavaScript.
 
